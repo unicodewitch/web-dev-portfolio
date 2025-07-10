@@ -90,6 +90,25 @@ nav li a {
 .banner-profile-pic{
     width: 580px;
 }
+/* resume section styles */
+.resume-container{
+    display: flex;gap: 24px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+
 
 main{
     max-width: 1140px;
@@ -120,5 +139,6 @@ main section{
 }
 .item-description{
    font-weight: 600;
+   
 
    
